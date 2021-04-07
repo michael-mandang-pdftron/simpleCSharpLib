@@ -18,5 +18,10 @@ namespace SimpleLibCSharpProject
         {
             return msg;
         }
+        
+        public string function3()
+        {
+            return "function3";
+        }
     }
 }
